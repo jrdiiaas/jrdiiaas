@@ -1,6 +1,6 @@
 ### Olá, sejam bem vindos ao meu GitHub 👋
 
-Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Meu nome é Alexandre Dias e sou um profissional de tecnologia com vasta experiência em e-commerce e gestão de marketing digital. Atualmente, estou buscando novas oportunidades na área de desenvolvimento de sistemas para a internet.
+Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Meu nome é Alexandre Dias e sou um profissional de tecnologia com vasta experiência em e-commerce e gestão de marketing digital. Atualmente, estou buscando novos conhecimentos na área de desenvolvimento de sistemas para a internet.
 
 Como especialista em operações de e-commerce e gestão de marketing digital, web design, UX e UI, adquiri habilidades em planejamento estratégico, gestão de performance, gestão de pessoas e gestão de evolução e melhorias de plataformas. Com uma metodologia de trabalho baseada em Scrum, posso criar e implementar soluções de forma ágil e eficiente.
 
